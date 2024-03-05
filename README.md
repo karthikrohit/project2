@@ -13,3 +13,22 @@ Database Insertion: Storing transformed data in a POSTGRESQL database.
 Dashboard Creation: Using Streamlit and Plotly to build an interactive dashboard.
 
 Data Retrieval: Fetching data from the database to dynamically update the dashboard.
+
+
+PROJECT REQUIREMENTS:
+
+1.Python
+
+2.Json
+
+3.Streamlit
+
+4.Pandas
+
+5.GitHub Cloning
+
+6.Requests
+
+7.Psycopg2
+
+8.Plotly
